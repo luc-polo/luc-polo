@@ -1,4 +1,4 @@
-I am a French engineering student specializing in data science and its mathematical foundations.
+I am a French engineering student specializing in data science and its mathematical foundations. I am interested in all things in data science, particularly probability predicitons!
 - 🔭 I’m currently working on football probability prediction
 - 🌱 I’m currently learning advanced linear regression
 
