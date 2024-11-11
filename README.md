@@ -1,4 +1,3 @@
-## Hi there 👋
 
 - 🔭 I’m currently working on football probability prediction
 - 🌱 I’m currently learning advanced linear regression
