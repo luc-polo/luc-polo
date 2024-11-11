@@ -1,4 +1,4 @@
-
+I am a French engineering student specializing in data science and its mathematical foundations.
 - 🔭 I’m currently working on football probability prediction
 - 🌱 I’m currently learning advanced linear regression
 
