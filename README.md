@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on football probability prediction
+- 🌱 I’m currently learning advanced linear regression
+
 <!--
 **luc-polo/luc-polo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
