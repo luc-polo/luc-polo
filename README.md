@@ -1,6 +1,6 @@
 I am a French engineering student specializing in data science and its mathematical foundations. I am interested in all aspects in data science, particularly probability predicitons!
 - 🔭 I’m currently working on Financial Time Series Signatures.
-- 🌱 I’m currently learning advanced linear regression
+- 🌱 I’m currently learning kriging
 
 <!--
 **luc-polo/luc-polo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
