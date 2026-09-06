@@ -1,7 +1,7 @@
 
 **Profile README:**
 
-French engineering student in data science and its mathematical foundations,
+French engineering student in ML,
 currently in the MS2A research master (statistics, algorithms, machine learning)
 at Sorbonne University, alongside Mines Saint-Étienne and emlyon.
 
