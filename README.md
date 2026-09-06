@@ -1,18 +1,22 @@
-I am a French engineering student specializing in data science and its mathematical foundations. I am interested in all aspects in data science, particularly probability predicitons!
-- 🔭 I’m currently working on Financial Time Series Signatures.
-- 🌱 I’m currently learning kriging
 
-<!--
-**luc-polo/luc-polo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Profile README:**
 
-Here are some ideas to get you started:
+French engineering student in data science and its mathematical foundations,
+currently in the MS2A research master (statistics, algorithms, machine learning)
+at Sorbonne University, alongside Mines Saint-Étienne and emlyon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Two kinds of things end up here:
+
+**Course labs**: implementing methods step by step to understand how they
+actually work: PCA and discriminant analysis from scratch, decision trees and
+random forests, ARIMA/GARCH on financial series. Python and R.
+
+**Personal projects**: mostly about predicting probabilities and checking
+whether they hold up. A model for football match outcomes calibrated against
+bookmaker odds, path signatures as features for volatility forecasting, and
+ongoing work on prediction markets: pricing models, and analysing on-chain
+trade history to find which traders are consistently profitable.
+
+Some of the prediction-market work is in private repos.
+
+
